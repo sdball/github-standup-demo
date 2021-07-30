@@ -1,3 +1,11 @@
+# 2021-07-26
+
+* Mined 1 TNT
+* Mined 29 Glowstone
+* Mined 60 Oak Fence Gate
+* Mined 43 Cobblestone
+* Mined 39 Magenta Wool
+
 # 2021-07-23
 
 * Mined 14 Netherrack
